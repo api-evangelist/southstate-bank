@@ -30,10 +30,16 @@ modified: '2026-07-23'
 specificationVersion: '0.19'
 apis: []
 common:
+- type: DomainSecurity
+  url: security/southstate-bank-domain-security.yml
 - type: Website
   url: https://www.southstatebank.com/
-- type: GitHubOrganization
-  url: https://github.com/southstatebank
+- type: Support
+  url: https://www.southstatebank.com/global/help
+- type: TermsOfService
+  url: https://www.southstatebank.com/global/help/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.southstatebank.com/global/help/online-privacy-policy
 - type: LinkedIn
   url: https://www.linkedin.com/company/south-state-bank
 maintainers:
