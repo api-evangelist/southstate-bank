@@ -1,0 +1,83 @@
+aid: southstate-bank
+name: SouthState Bank
+review:
+  question: Does SouthState Bank expose a public first-party developer API, downloadable API specifications, or a documented FDX / CFPB 1033 data-access surface?
+  answer: false
+  date: '2026-07-23'
+  reviewer: API Evangelist
+findings:
+  summary: |
+    SouthState Bank, N.A. does not operate a public first-party developer
+    portal and publishes no public API documentation, OpenAPI, or Swagger
+    definitions. The conventional developer subdomains do not exist:
+    developer.southstatebank.com and api.southstatebank.com fail DNS
+    resolution, and no /developers, /developer, or /api path is served
+    (the marketing site returns HTTP 403 to non-browser clients and hosts
+    no developer program). No first-party OAuth2/OIDC, API-key, or mTLS
+    developer credentialing is documented because there is no self-serve
+    API to authenticate against.
+
+    Consumer-permissioned account data is available only through a
+    third-party aggregator: the Open Banking Tracker records SouthState
+    Bank as reachable via Plaid, with no MX, Finicity, or Akoya route
+    listed and "no API products listed." There is no documented Financial
+    Data Exchange (FDX) conformant endpoint and no published CFPB Section
+    1033 (Personal Financial Data Rights) data-access posture for the
+    institution. Open-finance connectivity is therefore aggregator-mediated
+    (Plaid), not a direct bank-operated API.
+
+    SouthState maintains a GitHub organization (github.com/southstatebank)
+    but it currently holds zero public repositories, and an official
+    LinkedIn company page (south-state-bank). Both are real and verified;
+    neither exposes any API artifact.
+  posture:
+    firstPartyDeveloperPortal: false
+    developerPortalURL: null
+    downloadableSpecs: false
+    fdxParticipantDocumented: false
+    section1033PostureDocumented: false
+    aggregatorAccess:
+      - provider: Plaid
+        documented: true
+        source: openbankingtracker.com
+    authModel: none-public
+    specProvenance: none
+  transports:
+    - protocol: REST
+      documented: false
+      note: No public first-party REST API is documented by SouthState Bank.
+    - protocol: FDX
+      documented: false
+      note: No Financial Data Exchange conformant data-access API is documented.
+  probes:
+    - url: https://developer.southstatebank.com
+      status: DNS-NXDOMAIN
+      note: Subdomain does not resolve.
+    - url: https://api.southstatebank.com
+      status: DNS-NXDOMAIN
+      note: Subdomain does not resolve.
+    - url: https://www.southstatebank.com/
+      status: 403
+      note: Marketing site live but blocks non-browser user agents; no developer program present.
+    - url: https://www.southstatebank.com/developers
+      status: 403
+      note: No developer landing page served.
+    - url: https://github.com/southstatebank
+      status: 200
+      note: Real GitHub organization, zero public repositories (placeholder).
+    - url: https://www.linkedin.com/company/south-state-bank
+      status: 200
+      note: Official LinkedIn company page (verified).
+sources:
+  - url: https://www.openbankingtracker.com/provider/southstate-bank-online-banking
+    type: Reference
+    note: "No API products listed; supported by 1 aggregator (Plaid); direct API availability limited."
+  - url: https://en.wikipedia.org/wiki/SouthState_Bank
+    type: Reference
+    note: Institution identity, charter, and 2020 South State / CenterState merger history.
+  - url: https://www.sec.gov/Archives/edgar/data/764038/000110465926017884/ssb-20251231x10k.htm
+    type: Reference
+    note: "SouthState Bank Corporation FY2025 10-K; ~$67.2B assets; Winter Haven, FL; 2025 Florida redomicile."
+  - url: https://github.com/southstatebank
+    type: GitHubOrganization
+    note: Real but empty GitHub organization.

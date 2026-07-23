@@ -1,0 +1,41 @@
+aid: southstate-bank
+url: https://raw.githubusercontent.com/api-evangelist/southstate-bank/refs/heads/main/apis.yml
+name: SouthState Bank
+kind: company
+description: >-
+  SouthState Bank, National Association is an OCC-chartered national commercial
+  bank headquartered in Winter Haven, Florida, and the principal subsidiary of
+  SouthState Bank Corporation (NASDAQ: SSB). Formed through the 2020 merger of
+  South State Corporation and CenterState Bank and redomiciled to Florida in
+  2025, it holds roughly $67 billion in assets and operates across the
+  Southeast, Texas, Colorado, and Virginia. Like most US regional banks,
+  SouthState runs no public first-party developer portal and publishes no
+  downloadable OpenAPI or Swagger definitions. Consumer-permissioned data
+  access is delivered through third-party aggregators rather than a direct API:
+  the Open Banking Tracker records SouthState reachable via Plaid only, with no
+  documented Financial Data Exchange (FDX) endpoint and no published CFPB
+  Section 1033 data-access surface. Its open-finance posture is therefore
+  aggregator-mediated, not a self-serve developer program.
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+tags:
+- Financial Services
+- Banking
+- United States
+- Regional Bank
+- National Bank
+- Open Finance
+- Data Aggregation
+created: '2026-07-23'
+modified: '2026-07-23'
+specificationVersion: '0.19'
+apis: []
+common:
+- type: Website
+  url: https://www.southstatebank.com/
+- type: GitHubOrganization
+  url: https://github.com/southstatebank
+- type: LinkedIn
+  url: https://www.linkedin.com/company/south-state-bank
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
