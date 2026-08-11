@@ -1,0 +1,170 @@
+# SouthState Bank
+
+> SouthState Bank serves consumer, mortgage, small business, commercial, wealth, and retirement-plan audiences. The site includes product pages, service overviews, application and contact paths, educational hubs, and branch or advisor discovery.
+
+This `llms.txt` file is intentionally curated from the public sitemap to favor stable, high-signal pages over one-off articles, campaign pages, staff pages, and utility-only tools.
+
+Use this file as a routing guide:
+- Start with **Core Site Sections** for audience-level navigation.
+- Use the product sections when the user asks about a specific account type, loan type, or banking need.
+- Use **Support, Policies, and Service Information** for servicing, fees, privacy, and branch lookup.
+- Use **Optional** hubs when the request is educational or research-oriented rather than transactional.
+
+## Core Site Sections
+
+Primary entry points that represent the site's main audience and product architecture.
+
+- [Personal](https://www.southstatebank.com/personal): Main consumer hub for deposits, cards, borrowing, investing, digital banking, and everyday personal finance needs.
+- [Mortgage](https://www.southstatebank.com/mortgage): Main home-lending hub for purchase, refinance, mortgage education, and getting started with a lender.
+- [Small Business](https://www.southstatebank.com/small-business): Main small-business hub for business accounts, lending, cash-flow tools, and owner resources.
+- [Commercial](https://www.southstatebank.com/commercial): Main commercial banking hub for treasury services, commercial accounts, financing, industry expertise, and relationship support.
+- [Wealth](https://www.southstatebank.com/wealth): Main wealth hub for planning, advisory services, investment strategy, and market commentary.
+
+## Company
+
+Corporate and institutional context.
+
+- [About](https://www.southstatebank.com/global/about): Company overview, institutional information, and general corporate context.
+
+## Personal Banking
+
+Consumer deposit, card, and digital-banking pages for everyday money management.
+
+- [Personal Bank](https://www.southstatebank.com/personal/bank): Main consumer banking hub for checking, savings, CDs, cards, and digital banking.
+- [Checking](https://www.southstatebank.com/personal/bank/checking): Consumer checking overview and entry point for comparing account options.
+- [Compare All Accounts](https://www.southstatebank.com/personal/bank/checking/compare-all-accounts): Comparison page for choosing among available consumer checking accounts.
+- [SouthState Checking](https://www.southstatebank.com/personal/bank/checking/southstate-checking): Core checking account page for general everyday banking needs.
+- [Choice Checking](https://www.southstatebank.com/personal/bank/checking/choice-checking): Consumer checking option for users comparing entry-level or everyday account features.
+- [Gold Checking](https://www.southstatebank.com/personal/bank/checking/gold-checking): Premium checking option for customers seeking enhanced account benefits.
+- [Savings](https://www.southstatebank.com/personal/bank/savings): Main savings hub for deposit growth, reserve funds, and longer-term cash savings.
+- [Personal Savings](https://www.southstatebank.com/personal/bank/savings/personal-savings): Standard personal savings account page for general-purpose saving.
+- [Money Market](https://www.southstatebank.com/personal/bank/savings/money-market): Personal money market account page for higher-balance savings needs.
+- [Certificates of Deposit](https://www.southstatebank.com/personal/bank/savings/certificates-of-deposit): CD product page for fixed-term deposit savings.
+- [Health Savings Account](https://www.southstatebank.com/personal/bank/savings/health-savings-account): HSA page for healthcare-related tax-advantaged savings.
+- [Credit Cards](https://www.southstatebank.com/personal/bank/credit-cards): Consumer credit-card entry point for revolving credit and card features.
+- [Online and Mobile Banking](https://www.southstatebank.com/personal/bank/online-and-mobile-banking): Digital banking hub for account access, transfers, payments, alerts, and mobile tools.
+- [Overdraft Protection Options](https://www.southstatebank.com/personal/bank/overdraft-protection-options): Consumer overdraft coverage and linked-account protection information.
+- [Contact a Banker](https://www.southstatebank.com/personal/bank/contact-a-banker): Contact path for consumer deposit-account or banking-service questions.
+
+## Personal Borrowing
+
+Consumer loan and credit pages for vehicles, personal borrowing, and home equity.
+
+- [Personal Borrow](https://www.southstatebank.com/personal/borrow): Main personal lending hub for consumer borrowing products.
+- [Auto Loans](https://www.southstatebank.com/personal/borrow/auto-loans): Vehicle financing page for new or used auto loans.
+- [Personal Loans](https://www.southstatebank.com/personal/borrow/personal-loans): Unsecured or general-purpose personal borrowing page.
+- [Personal Line of Credit](https://www.southstatebank.com/personal/borrow/personal-line-of-credit): Revolving personal credit option for flexible borrowing needs.
+- [Home Equity Line of Credit](https://www.southstatebank.com/personal/borrow/home-equity-line-of-credit): HELOC page for revolving borrowing against home equity.
+- [Home Equity Loans](https://www.southstatebank.com/personal/borrow/home-equity-loans): Closed-end home equity borrowing page.
+- [Recreational Loans](https://www.southstatebank.com/personal/borrow/recreational-loans): Entry point for boat, RV, motorcycle, and other recreational-vehicle financing.
+- [Overdraft Line of Credit](https://www.southstatebank.com/personal/borrow/overdraft-line-of-credit): Linked personal credit option for overdraft support.
+- [Contact a Banker](https://www.southstatebank.com/personal/borrow/contact-a-banker): Contact path for consumer lending questions or next steps.
+
+## Mortgage
+
+Home-financing pages for purchase, refinance, education, and connecting with a mortgage banker.
+
+- [Mortgage](https://www.southstatebank.com/mortgage): Main mortgage hub for home-loan products, refinance options, education, and lender discovery.
+- [Mortgage Loans](https://www.southstatebank.com/mortgage/mortgage-loans): Main mortgage product hub for comparing home-loan types.
+- [Fixed-Rate Mortgage](https://www.southstatebank.com/mortgage/mortgage-loans/fixed-rate-mortgage): Mortgage page for fixed-payment home financing.
+- [Adjustable-Rate Mortgages](https://www.southstatebank.com/mortgage/mortgage-loans/adjustable-rate-mortgages): ARM page for borrowers evaluating variable-rate mortgage structures.
+- [FHA Loans](https://www.southstatebank.com/mortgage/mortgage-loans/fha-loans): Government-backed mortgage option often relevant to lower down payment scenarios.
+- [VA Loans](https://www.southstatebank.com/mortgage/mortgage-loans/va-loans): Mortgage option for eligible veterans and service members.
+- [USDA Loans](https://www.southstatebank.com/mortgage/mortgage-loans/usda-loans): Rural-housing mortgage option for eligible borrowers and properties.
+- [Jumbo Mortgages](https://www.southstatebank.com/mortgage/mortgage-loans/jumbo-mortgages): Mortgage page for higher-balance home financing needs.
+- [Construction Loans](https://www.southstatebank.com/mortgage/mortgage-loans/construction-loans): Build-focused mortgage page for construction financing.
+- [Physician Loans](https://www.southstatebank.com/mortgage/mortgage-loans/physician-loans): Specialized mortgage option for qualifying medical professionals.
+- [Lot Loans](https://www.southstatebank.com/mortgage/mortgage-loans/lot-loans): Land-purchase mortgage page for buying a residential lot.
+- [Portfolio Loans](https://www.southstatebank.com/mortgage/mortgage-loans/portfolio-loans): Mortgage option for scenarios that may not fit standard conforming guidelines.
+- [Manufactured Housing Loans](https://www.southstatebank.com/mortgage/mortgage-loans/manufactured-housing-loans): Mortgage page for eligible manufactured-home financing.
+- [Condo Financing](https://www.southstatebank.com/mortgage/mortgage-loans/condo-financing): Mortgage page specific to condominium purchases or financing.
+- [Refinancing](https://www.southstatebank.com/mortgage/refinancing): Refinance hub for rate, term, or cash-flow-oriented mortgage changes.
+- [Home Buying 101](https://www.southstatebank.com/mortgage/home-buying-101): Educational starting point for first-time or early-stage homebuyers.
+- [Get Started](https://www.southstatebank.com/mortgage/get-started): High-intent starting point for mortgage inquiries and application flow.
+- [Find a Mortgage Banker](https://www.southstatebank.com/mortgage/find-a-mortgage-banker): Directory and contact page for connecting with a mortgage specialist.
+
+## Small Business Banking
+
+Business account and digital-banking pages for operating accounts, reserves, and routine banking tasks.
+
+- [Small Business Bank](https://www.southstatebank.com/small-business/bank): Main small-business deposit hub for accounts, cards, and digital banking.
+- [Checking](https://www.southstatebank.com/small-business/bank/checking): Small-business checking hub for comparing business operating accounts.
+- [Compare Small Business Checking Accounts](https://www.southstatebank.com/small-business/bank/checking/compare-small-business-checking-accounts): Comparison page for choosing among business checking options.
+- [Small Business Checking](https://www.southstatebank.com/small-business/bank/checking/small-business): Core small-business checking account page.
+- [Business Gold Checking](https://www.southstatebank.com/small-business/bank/checking/business-gold-checking): Business checking option for higher-activity or enhanced-feature account needs.
+- [Community Checking](https://www.southstatebank.com/small-business/bank/checking/community-checking): Business/community account option for qualifying organizations.
+- [Savings and CDs](https://www.southstatebank.com/small-business/bank/savings-cds): Main business savings and CDs hub.
+- [Business Savings](https://www.southstatebank.com/small-business/bank/savings-cds/business-savings): Standard small-business savings account page.
+- [Business Money Market](https://www.southstatebank.com/small-business/bank/savings-cds/business-money-market): Business money market page for reserve balances and liquidity.
+- [Certificates of Deposit](https://www.southstatebank.com/small-business/bank/savings-cds/certificates-of-deposit): Business CD page for fixed-term business deposits.
+- [Credit Cards](https://www.southstatebank.com/small-business/bank/credit-cards): Small-business credit-card entry point.
+- [Business Online and Mobile Banking](https://www.southstatebank.com/small-business/bank/business-online-and-mobile-banking): Digital banking hub for business account access, approvals, payments, and remote management.
+- [Contact a Banker](https://www.southstatebank.com/small-business/bank/contact-a-banker): Contact path for business deposit-account and service questions.
+
+## Small Business Lending
+
+Business financing pages for working capital, equipment, property, and government-backed lending.
+
+- [Small Business Borrow](https://www.southstatebank.com/small-business/borrow): Main small-business lending hub.
+- [Loans and Lines of Credit](https://www.southstatebank.com/small-business/borrow/loans-lines-of-credit): Core small-business financing hub for common loan and credit structures.
+- [Business Line of Credit](https://www.southstatebank.com/small-business/borrow/loans-lines-of-credit/business-line-of-credit): Revolving working-capital borrowing page.
+- [Business Equity Line](https://www.southstatebank.com/small-business/borrow/loans-lines-of-credit/business-equity-line): Credit line secured by business equity or collateral.
+- [Equipment Loans](https://www.southstatebank.com/small-business/borrow/loans-lines-of-credit/equipment-loans): Financing page for equipment acquisition.
+- [Vehicle and Fleet Financing](https://www.southstatebank.com/small-business/borrow/loans-lines-of-credit/vehicle-and-fleet-financing): Financing for company vehicles and fleet purchases.
+- [Business Construction Loans](https://www.southstatebank.com/small-business/borrow/loans-lines-of-credit/business-construction-loans): Construction financing for business property or build-out needs.
+- [SBA Loans](https://www.southstatebank.com/small-business/borrow/sba-loans): Government-backed business lending hub.
+- [Real Estate Loans](https://www.southstatebank.com/small-business/borrow/real-estate-loans): Business real-estate financing page.
+- [USDA Loans](https://www.southstatebank.com/small-business/borrow/usda-loans): Government-backed rural business lending page.
+- [Letters of Credit](https://www.southstatebank.com/small-business/borrow/letters-of-credit): Trade, assurance, or transaction-support credit instruments.
+- [Contact a Banker](https://www.southstatebank.com/small-business/borrow/contact-a-banker): Contact path for small-business lending conversations.
+
+## Commercial Banking
+
+Relationship-led account, treasury, and financing pages for larger or more specialized business needs.
+
+- [Commercial Solutions](https://www.southstatebank.com/commercial/solutions): Main commercial solutions hub across banking, financing, and treasury.
+- [Commercial Checking Solutions](https://www.southstatebank.com/commercial/solutions/banking/commercial-checking-solutions): Commercial deposit-account hub for operating and analyzed checking relationships.
+- [Savings and CDs](https://www.southstatebank.com/commercial/solutions/banking/savings-cds): Commercial savings, money market, and CD hub.
+- [Working Capital Line of Credit](https://www.southstatebank.com/commercial/solutions/financing/working-capital-line-of-credit): Commercial revolving credit page for liquidity and operating capital.
+- [Acquisition Financing](https://www.southstatebank.com/commercial/solutions/financing/acquisition-financing): Financing page for business acquisitions and expansion transactions.
+- [Cap Ex Financing](https://www.southstatebank.com/commercial/solutions/financing/cap-ex-financing): Financing page for capital expenditures and major business investments.
+- [Public Finance](https://www.southstatebank.com/commercial/solutions/financing/public-finance): Financing page for public-sector or municipal borrowing needs.
+- [Treasury Management](https://www.southstatebank.com/commercial/treasury-management): Treasury, payments, receivables, liquidity, and cash-management services.
+- [Commercial Expertise](https://www.southstatebank.com/commercial/expertise): Industry and specialty expertise hub for more tailored commercial conversations.
+- [Specialty Banking](https://www.southstatebank.com/commercial/specialty-banking): Entry point for specialized commercial banking programs and sectors.
+- [Contact a Banker](https://www.southstatebank.com/commercial/contact-a-banker): High-intent contact page for commercial relationship inquiries.
+
+## Wealth and Retirement
+
+Planning, advisory, and retirement pages for long-term financial needs.
+
+- [Wealth](https://www.southstatebank.com/wealth): Main wealth-management hub for advisory, planning, and investment services.
+- [Your Goals](https://www.southstatebank.com/wealth/your-goals): Planning entry point organized around life stages, goals, and client priorities.
+- [Our Strategies](https://www.southstatebank.com/wealth/our-strategies): Wealth advisory and investment-strategy overview.
+- [Premier Private Client Group](https://www.southstatebank.com/wealth/premier-private-client-group): Higher-touch private-client offering for more complex wealth needs.
+- [Contact a Wealth Advisor](https://www.southstatebank.com/wealth/contact-a-wealth-advisor): Contact path for wealth-planning and advisory conversations.
+- [Retirement Plan Services for Participants](https://www.southstatebank.com/retirement-plan-services/participant): Participant-facing retirement-plan resources, education, and account access.
+- [Retirement Plan Services for Plan Sponsors](https://www.southstatebank.com/retirement-plan-services/plan-sponsor): Sponsor-facing retirement-plan resources and administrative support.
+- [RPS Login Options](https://www.southstatebank.com/retirement-plan-services/rps-login-options): Login and access options for retirement-plan users.
+
+## Support, Policies, and Service Information
+
+Pages that are useful for help requests, servicing questions, fees, privacy, and branch discovery.
+
+- [Help](https://www.southstatebank.com/global/help): Central help hub for support topics, customer assistance, and service information.
+- [Personal Account Fee Schedule](https://www.southstatebank.com/global/help/personal-account-fee-schedule): Reference page for consumer deposit account fees and related charges.
+- [Business Account Fee Schedule](https://www.southstatebank.com/global/help/business-account-fee-schedule): Reference page for business deposit account fees and related charges.
+- [Privacy Notice](https://www.southstatebank.com/global/privacy-notice): Privacy, data-handling, and disclosure information.
+- [Locations](https://www.southstatebank.com/global/locations): Branch and ATM locator for in-person service.
+
+## Optional
+
+Secondary resource hubs that are useful for educational or research-oriented queries, but are less important than core product and service pages for primary navigation.
+
+- [Personal Stories and Insights](https://www.southstatebank.com/personal/stories-and-insights): Consumer education hub covering budgeting, saving, borrowing, fraud, payments, and everyday money topics.
+- [Mortgage Insights](https://www.southstatebank.com/mortgage/mortgage-insights): Educational hub for homebuying, refinancing, home equity, and homeowner guidance.
+- [Small Business Stories and Insights](https://www.southstatebank.com/small-business/stories-and-insights): Educational content for business operations, banking, fraud, growth, and management topics.
+- [Commercial Stories and Insights](https://www.southstatebank.com/commercial/stories-and-insights): Commercial education hub for treasury, risk, industry, and client-story content.
+- [Wealth Insights](https://www.southstatebank.com/wealth/wealth-insights): Educational hub for investing, retirement, insurance, estate, and long-term planning topics.
+- [On Point Market Commentary](https://www.southstatebank.com/wealth/on-point-market-commentary): Timelier market and economic commentary for wealth clients and investors.
+- [Retirement Insights](https://www.southstatebank.com/retirement-plan-services/retirement-insights): Retirement-focused educational content for participants and plan sponsors.
